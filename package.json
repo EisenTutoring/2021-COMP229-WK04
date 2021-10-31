@@ -1,0 +1,14 @@
+{
+  "name": "COMP229-2021-Week2",
+  "version": "1.0.0",
+  "description": "Demo Project COMP229 WK2",
+  "main": "index.js",
+  "author": "George Zhou",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
