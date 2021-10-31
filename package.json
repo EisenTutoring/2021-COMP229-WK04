@@ -1,14 +1,16 @@
 {
-  "name": "COMP229-2021-Week2",
-  "version": "1.0.0",
-  "description": "Demo Project COMP229 WK2",
-  "main": "index.js",
-  "author": "George Zhou",
-  "license": "MIT",
+  "name": "week3",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./bin/www"
   },
-  "devDependencies": {
-    "@types/node": "^16.11.6"
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
   }
 }
