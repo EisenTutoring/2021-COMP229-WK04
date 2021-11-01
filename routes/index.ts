@@ -32,5 +32,4 @@ router.get('/contact', function(req, res, next) {
   res.render('index', { title: 'Contact' });
 });
 
-
 //module.exports = router;
